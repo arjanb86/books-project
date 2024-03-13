@@ -42,7 +42,7 @@ body {
 .header-container {
     display: flex;
     height: 400px;
-    margin-bottom: 0;
+    margin-bottom: 20px;
 
     background-color: rgba(16, 8, 6, .4);
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.3) 80%, rgba(0, 0, 0, 1)), url("./images/bg3.jpg");
